@@ -1,0 +1,8 @@
+\frametitle{3}
+Adicione mais um gráfico ao seu script, mostrando a umidade média por mês do banco de dados de weather.
+
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
+\includegraphics[width=\maxwidth]{figure/unnamed-chunk-3-1}
+\end{knitrout}
+
